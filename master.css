@@ -1,0 +1,27 @@
+.container{
+width: 700px;
+margin: auto;
+}
+.header-container{
+    text-align: center;
+}
+.logo{
+    width: 250px;
+    
+    
+}
+.title{
+    color: rgb(76, 191, 23);
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+/* Stile del rettangolo */
+.rettangolo {
+    width: 700px; /* Larghezza del rettangolo */
+    height: 30px; /* Altezza del rettangolo */
+    background-color: #69db34; /* Colore di sfondo del rettangolo */
+box-sizing: content-box;
+}
+
